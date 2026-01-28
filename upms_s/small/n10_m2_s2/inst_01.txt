@@ -1,0 +1,48 @@
+# problem UPMS-S
+# benchmark small
+# n_jobs 10
+# n_machines 2
+# n_servers 2
+# beta_min 10
+# beta_max 40
+# alpha 0.25
+# seed 2735729614
+
+@p_times
+# rows = jobs, columns = machines
+23 13
+35 28
+22 19
+24 30
+24 38
+12 31
+29 38
+40 17
+19 20
+19 33
+
+@setup_times
+# rows = jobs, columns = machines
+# server 0
+10 5
+2 9
+9 5
+6 9
+10 10
+6 3
+9 2
+6 2
+3 5
+9 4
+
+# server 1
+6 7
+7 6
+7 8
+6 7
+2 10
+9 5
+10 4
+6 10
+6 7
+7 2
