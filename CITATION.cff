@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: UPMS with unrelated server
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Nikolaos
+    family-names: Liouliakis
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.18421616
+    description: >-
+      Benchmark instances for the Unrelated Parallel Machine
+      Scheduling (UPMS) problem with unrelated servers 
+repository-code: 'https://github.com/Nick-Liou/upms-benchmarks'
+abstract: >-
+  Benchmark dataset for the Unrelated Parallel Machine
+  Scheduling (UPMS) problem with unrelated servers.
+keywords:
+  - UPMS
+  - Scheduling
+  - benchmark
+license: CC-BY-4.0
+version: 1.0.0
+date-released: '2026-01-29'
