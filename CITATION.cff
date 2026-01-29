@@ -7,12 +7,13 @@ type: dataset
 authors:
   - given-names: Nikolaos
     family-names: Liouliakis
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.18421616
-    description: >-
-      Benchmark instances for the Unrelated Parallel Machine
-      Scheduling (UPMS) problem with unrelated servers 
+doi: 10.5281/zenodo.18421616
+#identifiers:
+#  - type: doi
+#    value: 10.5281/zenodo.18421616
+#    description: >-
+#      Benchmark instances for the Unrelated Parallel Machine
+#      Scheduling (UPMS) problem with unrelated servers 
 repository-code: 'https://github.com/Nick-Liou/upms-benchmarks'
 abstract: >-
   Benchmark dataset for the Unrelated Parallel Machine
